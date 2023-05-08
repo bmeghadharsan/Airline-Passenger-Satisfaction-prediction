@@ -1,0 +1,9 @@
+matplotlib
+catboost
+xgboost
+lazypredict
+scikit-learn
+seaborn
+pandas
+numpy
+streamlit_lottie
